@@ -2,9 +2,9 @@
 package pewarisanpesawat;
 
   public class Pesawat {
-    // Buat Kodingan Neng Kene Bro OKE:D
+ 
    
-String jenisMesin = "JET",jenisPesawat;
+String jenisMesin = "SUPERJET",jenisPesawat;
 int mesin = 0, jmlhPenumpang = 0;
 
     public void setJenisMesin(String jenisMesin) {
